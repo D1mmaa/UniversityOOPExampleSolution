@@ -17,7 +17,7 @@ int main() {
 
 	cout << "Worst mark is " << manager.getMinMark(students, size);
 
-	Student best = manager.getBestStudant(students, size);
+	//Student best = manager.getBestStudant(students, size);
 	cout << "First best student is " << best.convert() << endl;
 
 	
